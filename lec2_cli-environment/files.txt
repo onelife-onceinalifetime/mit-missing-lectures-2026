@@ -1,0 +1,10 @@
+*.sh
+add.py
+files.txt
+folder
+numbers.txt
+output.txt
+project1
+project2
+project3
+project4
